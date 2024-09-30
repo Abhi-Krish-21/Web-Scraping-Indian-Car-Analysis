@@ -1,0 +1,360 @@
+brand,model,price,price_in_lakh_avg,price_range
+Ashok Leyland,Stile,Rs.9.56 Lakh,9.56,0-50 Lakhs
+Aston Martin,Db12,Rs.4.59 Cr,459.0,200-500 Lakhs
+Aston Martin,Dbx,Rs.3.82 - 4.63 Cr,422.49999999999994,200-500 Lakhs
+Aston Martin,Vantage,Rs.3.99 Cr,399.0,200-500 Lakhs
+Audi,Q5,Rs.65.51 - 70.80 Lakh,68.155,50-100 Lakhs
+Audi,Q3,Rs.44.25 - 54.65 Lakh,49.45,0-50 Lakhs
+Audi,Q7,Rs.88.66 - 97.84 Lakh,93.25,50-100 Lakhs
+Audi,A4,Rs.46.02 - 54.58 Lakh,50.3,50-100 Lakhs
+Audi,Rs5,Rs.1.13 Cr,112.99999999999999,100-200 Lakhs
+Audi,A6,Rs.64.41 - 70.79 Lakh,67.6,50-100 Lakhs
+Audi,Q8,Rs.1.16 - 1.43 Cr,129.5,100-200 Lakhs
+Audi,E-Tron Gt,Rs.1.72 Cr,172.0,100-200 Lakhs
+Audi,E-Tron,Rs.1.02 - 1.26 Cr,114.00000000000001,100-200 Lakhs
+Audi,Rs E-Tron Gt,Rs.1.95 Cr,195.0,100-200 Lakhs
+Audi,A8 L,Rs.1.34 - 1.63 Cr,148.5,100-200 Lakhs
+Audi,Q3 Sportback,Rs.54.76 - 55.71 Lakh,55.235,50-100 Lakhs
+Audi,Q8 E-Tron,Rs.1.15 - 1.27 Cr,121.0,100-200 Lakhs
+Audi,Q8 Sportback E-Tron,Rs.1.19 - 1.32 Cr,125.49999999999999,100-200 Lakhs
+Audi,Rs Q8,Rs.2.22 Cr,222.00000000000003,200-500 Lakhs
+Audi,S5 Sportback,Rs.77.32 Lakh,77.32,50-100 Lakhs
+Austin,A40,Rs.15 Lakh,15.0,0-50 Lakhs
+Bentley,Continental,Rs.5.23 - 8.45 Cr,684.0,500-1000 Lakhs
+Bentley,Flying Spur,Rs.5.25 - 7.60 Cr,642.5,500-1000 Lakhs
+Bentley,Bentayga,Rs.5 - 6.75 Cr,587.5,500-1000 Lakhs
+Bmw,X1,Rs.49.50 - 52.50 Lakh,51.0,50-100 Lakhs
+Bmw,X7,Rs.1.27 - 1.30 Cr,128.5,100-200 Lakhs
+Bmw,X5,Rs.96 Lakh - 1.09 Cr,4854.5,1000+ Lakhs
+Bmw,I7,Rs.2.03 - 2.50 Cr,226.49999999999997,200-500 Lakhs
+Bmw,Xm,Rs.2.60 Cr,260.0,200-500 Lakhs
+Bmw,Z4,Rs.90.90 Lakh,90.9,50-100 Lakhs
+Bmw,X3,Rs.68.50 - 87.70 Lakh,78.1,50-100 Lakhs
+Bmw,3 Series,Rs.72.90 Lakh,72.9,50-100 Lakhs
+Bmw,7 Series,Rs.1.81 - 1.84 Cr,182.50000000000003,100-200 Lakhs
+Bmw,2 Series,Rs.43.90 - 46.90 Lakh,45.4,0-50 Lakhs
+Bmw,Ix,Rs.1.40 Cr,140.0,100-200 Lakhs
+Bmw,M2,Rs.99.90 Lakh,99.9,50-100 Lakhs
+Bmw,X4,Rs.96.20 Lakh,96.2,50-100 Lakhs
+Bmw,6 Series,Rs.73.50 - 78.90 Lakh,76.2,50-100 Lakhs
+Bmw,M4 Competition,Rs.1.53 Cr,153.0,100-200 Lakhs
+Bmw,I5,Rs.1.20 Cr,120.0,100-200 Lakhs
+Bmw,3 Series Gran Limousine,Rs.60.60 - 62.60 Lakh,61.6,50-100 Lakhs
+Bmw,Ix1,Rs.66.90 Lakh,66.9,50-100 Lakhs
+Bmw,I4,Rs.72.50 - 77.50 Lakh,75.0,50-100 Lakhs
+Bmw,M8 Coupe Competition,Rs.2.44 Cr,244.0,200-500 Lakhs
+Bugatti,Divo,Rs.41 Cr,4100.0,1000+ Lakhs
+Bugatti,Veyron,Rs.12 Cr,1200.0,1000+ Lakhs
+Byd,Seal,Rs.41 - 53 Lakh,47.0,0-50 Lakhs
+Byd,Atto 3,Rs.33.99 - 34.49 Lakh,34.24,0-50 Lakhs
+Byd,E6,Rs.29.15 Lakh,29.15,0-50 Lakhs
+Cadillac,Cts,Rs.45 Lakh,45.0,0-50 Lakhs
+Cadillac,Escalade,Rs.1.20 Cr,120.0,100-200 Lakhs
+Cadillac,Sts,Rs.45 Lakh,45.0,0-50 Lakhs
+Chevrolet,Aveo,Rs.7.43 Lakh,7.43,0-50 Lakhs
+Chevrolet,Aveo U-Va,Rs.4.98 Lakh,4.98,0-50 Lakhs
+Chevrolet,Beat 2009-2013,Rs.6.01 Lakh,6.01,0-50 Lakhs
+Chevrolet,Beat 2014-2016,Rs.6.38 Lakh,6.38,0-50 Lakhs
+Chevrolet,Beat,Rs.6.50 Lakh,6.5,0-50 Lakhs
+Chevrolet,Captiva,Rs.27.36 Lakh,27.36,0-50 Lakhs
+Chevrolet,Captiva 2008-2012,Rs.20.59 Lakh,20.59,0-50 Lakhs
+Chevrolet,Captiva 2012-2014,Rs.27.36 Lakh,27.36,0-50 Lakhs
+Chevrolet,Corvette,Rs.50 Lakh,50.0,0-50 Lakhs
+Chevrolet,Cruze 2010-2011,Rs.15.05 Lakh,15.05,0-50 Lakhs
+Chevrolet,Cruze 2012-2014,Rs.16 Lakh,16.0,0-50 Lakhs
+Chevrolet,Cruze 2014-2016,Rs.17.81 Lakh,17.81,0-50 Lakhs
+Chevrolet,Cruze,Rs.17.46 Lakh,17.46,0-50 Lakhs
+Chevrolet,Enjoy,Rs.9.18 Lakh,9.18,0-50 Lakhs
+Chevrolet,Enjoy 2013-2015,Rs.8.63 Lakh,8.63,0-50 Lakhs
+Chevrolet,Forester,Rs.10 Lakh,10.0,0-50 Lakhs
+Chevrolet,Optra,Rs.11.84 Lakh,11.84,0-50 Lakhs
+Chevrolet,Optra Magnum,Rs.9.56 Lakh,9.56,0-50 Lakhs
+Chevrolet,Optra Srv,Rs.7.50 Lakh,7.5,0-50 Lakhs
+Chevrolet,Sail,Rs.8.44 Lakh,8.44,0-50 Lakhs
+Chevrolet,Sail Hatchback,Rs.7.46 Lakh,7.46,0-50 Lakhs
+Chevrolet,Sail Hatchback 2012-2013,Rs.6.62 Lakh,6.62,0-50 Lakhs
+Chevrolet,Silverado,Rs.8.17 Lakh,8.17,0-50 Lakhs
+Chevrolet,Spark,Rs.4.22 Lakh,4.22,0-50 Lakhs
+Chevrolet,Spark 2007-2012,Rs.4.31 Lakh,4.31,0-50 Lakhs
+Chevrolet,Tavera 2003-2007,Rs.7.57 Lakh,7.57,0-50 Lakhs
+Chevrolet,Tavera 2012-2017,Rs.11.50 Lakh,11.5,0-50 Lakhs
+Chevrolet,Tavera,Rs.11.58 Lakh,11.58,0-50 Lakhs
+Chevrolet,Tavera Neo,Rs.10.12 Lakh,10.12,0-50 Lakhs
+Chevrolet,Trailblazer,Rs.26.99 Lakh,26.99,0-50 Lakhs
+Chrysler,300,Rs.80 Lakh,80.0,50-100 Lakhs
+Chrysler,Avenger,Rs.30 Lakh,30.0,0-50 Lakhs
+Citroen,C3,Rs.6.16 - 9 Lakh,7.58,0-50 Lakhs
+Citroen,C3 Aircross,Rs.9.99 - 14.11 Lakh,12.05,0-50 Lakhs
+Citroen,Ec3,Rs.11.61 - 13.41 Lakh,12.51,0-50 Lakhs
+Citroen,C5 Aircross,Rs.36.91 - 37.67 Lakh,37.29,0-50 Lakhs
+Datsun,Go,Rs.6.51 Lakh,6.51,0-50 Lakhs
+Datsun,Go Plus,Rs.7 Lakh,7.0,0-50 Lakhs
+Datsun,Redi-Go 2016-2020,Rs.4.37 Lakh,4.37,0-50 Lakhs
+Datsun,Redi-Go,Rs.4.96 Lakh,4.96,0-50 Lakhs
+Dc,Avanti,Rs.60 Lakh,60.0,50-100 Lakhs
+Dodge,Nitro,Rs.50 Lakh,50.0,0-50 Lakhs
+Ferrari,Roma,Rs.3.76 Cr,376.0,200-500 Lakhs
+Ferrari,296 Gtb,Rs.5.40 Cr,540.0,500-1000 Lakhs
+Ferrari,Sf90 Stradale,Rs.7.50 Cr,750.0,500-1000 Lakhs
+Ferrari,812,Rs.5.75 Cr,575.0,500-1000 Lakhs
+Ferrari,F8 Tributo,Rs.4.02 Cr,401.99999999999994,200-500 Lakhs
+Fiat,1100,Rs.10 Lakh,10.0,0-50 Lakhs
+Fiat,500,Rs.29.85 Lakh,29.85,0-50 Lakhs
+Fiat,Abarth,Rs.29.85 Lakh,29.85,0-50 Lakhs
+Fiat,Abarth Avventura,Rs.9.89 Lakh,9.89,0-50 Lakhs
+Fiat,Adventure,Rs.3.59 Lakh,3.59,0-50 Lakhs
+Fiat,Avventura,Rs.8.84 Lakh,8.84,0-50 Lakhs
+Fiat,Avventura Urban Cross,Rs.9.78 Lakh,9.78,0-50 Lakhs
+Fiat,Ducato,Rs.16 Lakh,16.0,0-50 Lakhs
+Fiat,Grande Punto 2009-2014,Rs.7.24 Lakh,7.24,0-50 Lakhs
+Fiat,Grande Punto,Rs.7.92 Lakh,7.92,0-50 Lakhs
+Fiat,Linea,Rs.10.63 Lakh,10.63,0-50 Lakhs
+Fiat,Linea 2008-2012,Rs.9.76 Lakh,9.76,0-50 Lakhs
+Fiat,Linea 2012-2014,Rs.9.76 Lakh,9.76,0-50 Lakhs
+Fiat,Linea Classic,Rs.8.25 Lakh,8.25,0-50 Lakhs
+Fiat,Millicento,Rs.10 Lakh,10.0,0-50 Lakhs
+Fiat,Palio,Rs.3.59 Lakh,3.59,0-50 Lakhs
+Fiat,Palio D,Rs.3.59 Lakh,3.59,0-50 Lakhs
+Fiat,Palio Nv,Rs.3.59 Lakh,3.59,0-50 Lakhs
+Fiat,Palio Stile,Rs.5.78 Lakh,5.78,0-50 Lakhs
+Fiat,Petra,Rs.5.09 Lakh,5.09,0-50 Lakhs
+Fiat,Petra D,Rs.5.09 Lakh,5.09,0-50 Lakhs
+Fiat,Premier Padmini,Rs.1.20 Lakh,1.2,0-50 Lakhs
+Fiat,Punto,Rs.6.87 Lakh,6.87,0-50 Lakhs
+Fiat,Abarth Punto,Rs.9.67 Lakh,9.67,0-50 Lakhs
+Fiat,Punto Evo,Rs.7.48 Lakh,7.48,0-50 Lakhs
+Fiat,Punto Pure,Rs.5.63 Lakh,5.63,0-50 Lakhs
+Fiat,Siena,Rs.5.25 Lakh,5.25,0-50 Lakhs
+Fiat,Uno,Rs.5.66 Lakh,5.66,0-50 Lakhs
+Ford,Aspire,Rs.9.10 Lakh,9.1,0-50 Lakhs
+Ford,Aspire 2018,Rs.6 Lakh,6.0,0-50 Lakhs
+Ford,Ecosport 2013-2015,Rs.10.20 Lakh,10.2,0-50 Lakhs
+Ford,Ecosport 2015-2021,Rs.11.49 Lakh,11.49,0-50 Lakhs
+Ford,Ecosport,Rs.11.69 Lakh,11.69,0-50 Lakhs
+Ford,Endeavour 2003-2007,Rs.22.05 Lakh,22.05,0-50 Lakhs
+Ford,Endeavour 2007-2009,Rs.22.05 Lakh,22.05,0-50 Lakhs
+Ford,Endeavour 2009-2014,Rs.22.05 Lakh,22.05,0-50 Lakhs
+Ford,Endeavour 2014-2015,Rs.25.67 Lakh,25.67,0-50 Lakhs
+Ford,Endeavour 2015-2020,Rs.34.70 Lakh,34.7,0-50 Lakhs
+Ford,Endeavour 2020-2022,Rs.36.27 Lakh,36.27,0-50 Lakhs
+Ford,Escort,Rs.9 Lakh,9.0,0-50 Lakhs
+Ford,Falcon,Rs.2 Lakh,2.0,0-50 Lakhs
+Ford,Fiesta,Rs.10.19 Lakh,10.19,0-50 Lakhs
+Ford,Fiesta 2004-2008,Rs.8.52 Lakh,8.52,0-50 Lakhs
+Ford,Fiesta 2008-2011,Rs.8.52 Lakh,8.52,0-50 Lakhs
+Ford,Fiesta 2011-2013,Rs.9.99 Lakh,9.99,0-50 Lakhs
+Ford,Fiesta Classic,Rs.7.68 Lakh,7.68,0-50 Lakhs
+Ford,Fiesta Classic 2011-2012,Rs.8.48 Lakh,8.48,0-50 Lakhs
+Ford,Figo 2010 2012,Rs.5.94 Lakh,5.94,0-50 Lakhs
+Ford,Figo 2012-2015,Rs.6.36 Lakh,6.36,0-50 Lakhs
+Ford,Figo 2015-2019,Rs.8.49 Lakh,8.49,0-50 Lakhs
+Ford,Figo,Rs.8.37 Lakh,8.37,0-50 Lakhs
+Ford,Freestyle,Rs.9.03 Lakh,9.03,0-50 Lakhs
+Ford,Fusion,Rs.6.83 Lakh,6.83,0-50 Lakhs
+Ford,Ikon,Rs.5.76 Lakh,5.76,0-50 Lakhs
+Ford,Mondeo 2001-2006,Rs.15 Lakh,15.0,0-50 Lakhs
+Ford,Mustang 2016-2020,Rs.74.62 Lakh,74.62,50-100 Lakhs
+Hindustan Motors,Ambassador,Rs.6.09 Lakh,6.09,0-50 Lakhs
+Hindustan Motors,Contessa,Rs.5.42 Lakh,5.42,0-50 Lakhs
+Honda,City,Rs.11.82 - 16.30 Lakh,14.06,0-50 Lakhs
+Honda,Amaze,Rs.7.20 - 9.96 Lakh,8.58,0-50 Lakhs
+Honda,City Hybrid,Rs.19 - 20.50 Lakh,19.75,0-50 Lakhs
+Honda,Elevate,Rs.11.69 - 16.51 Lakh,14.100000000000001,0-50 Lakhs
+Hummer,H2,Rs.75 Lakh,75.0,50-100 Lakhs
+Hummer,H3,Rs.80 Lakh,80.0,50-100 Lakhs
+Hyundai,Creta,Rs.11 - 20.15 Lakh,15.575,0-50 Lakhs
+Hyundai,Venue,Rs.7.94 - 13.48 Lakh,10.71,0-50 Lakhs
+Hyundai,Verna,Rs.11 - 17.42 Lakh,14.21,0-50 Lakhs
+Hyundai,Exter,Rs.6.13 - 10.28 Lakh,8.205,0-50 Lakhs
+Hyundai,I20,Rs.7.04 - 11.21 Lakh,9.125,0-50 Lakhs
+Hyundai,Aura,Rs.6.49 - 9.05 Lakh,7.7700000000000005,0-50 Lakhs
+Hyundai,Alcazar,Rs.16.77 - 21.28 Lakh,19.025,0-50 Lakhs
+Hyundai,Tucson,Rs.29.02 - 35.94 Lakh,32.48,0-50 Lakhs
+Hyundai,Kona Electric,Rs.23.84 - 24.03 Lakh,23.935000000000002,0-50 Lakhs
+Hyundai,Creta N Line,Rs.16.82 - 20.45 Lakh,18.634999999999998,0-50 Lakhs
+Hyundai,Venue N Line,Rs.12.08 - 13.90 Lakh,12.99,0-50 Lakhs
+Hyundai,Grand I10 Nios,Rs.5.92 - 8.56 Lakh,7.24,0-50 Lakhs
+Hyundai,I20 N-Line,Rs.9.99 - 12.52 Lakh,11.254999999999999,0-50 Lakhs
+Hyundai,Ioniq 5,Rs.46.05 Lakh,46.05,0-50 Lakhs
+Icml,Extreme,Rs.9.79 Lakh,9.79,0-50 Lakhs
+Icml,Rhino Rx,Rs.8.79 Lakh,8.79,0-50 Lakhs
+Isuzu,D-Max,Rs.10.55 - 11.40 Lakh,10.975000000000001,0-50 Lakhs
+Isuzu,Mu-X,Rs.37 - 40.40 Lakh,38.7,0-50 Lakhs
+Isuzu,V-Cross,Rs.25.52 - 30.96 Lakh,28.240000000000002,0-50 Lakhs
+Isuzu,S-Cab,Rs.12.55 - 13 Lakh,12.775,0-50 Lakhs
+Isuzu,S-Cab Z,Rs.15 Lakh,15.0,0-50 Lakhs
+Isuzu,Hi-Lander,Rs.21.20 Lakh,21.2,0-50 Lakhs
+Jaguar,F-Pace,Rs.72.90 Lakh,72.9,50-100 Lakhs
+Jaguar,F-Type,Rs.1 - 1.56 Cr,128.0,100-200 Lakhs
+Jaguar,I-Pace,Rs.1.26 Cr,126.0,100-200 Lakhs
+Jeep,Compass,Rs.20.69 - 32.41 Lakh,26.549999999999997,0-50 Lakhs
+Jeep,Wrangler,Rs.67.65 - 71.65 Lakh,69.65,50-100 Lakhs
+Jeep,Meridian,Rs.33.77 - 39.83 Lakh,36.8,0-50 Lakhs
+Jeep,Grand Cherokee,Rs.80.50 Lakh,80.5,50-100 Lakhs
+Kia,Seltos,Rs.10.90 - 20.35 Lakh,15.625,0-50 Lakhs
+Kia,Sonet,Rs.7.99 - 15.75 Lakh,11.870000000000001,0-50 Lakhs
+Kia,Ev6,Rs.60.97 - 65.97 Lakh,63.47,50-100 Lakhs
+Kia,Carens,Rs.10.52 - 19.67 Lakh,15.095,0-50 Lakhs
+Lamborghini,Urus,Rs.4.18 - 4.22 Cr,419.99999999999994,200-500 Lakhs
+Lamborghini,Revuelto,Rs.8.89 Cr,889.0,500-1000 Lakhs
+Lamborghini,Huracan Evo,Rs.4 - 4.99 Cr,449.5,200-500 Lakhs
+Land Rover,Range Rover,Rs.2.39 - 4.47 Cr,343.0,200-500 Lakhs
+Land Rover,Defender,Rs.97 Lakh - 2.35 Cr,4967.5,1000+ Lakhs
+Land Rover,Range Rover Velar,Rs.87.90 Lakh,87.9,50-100 Lakhs
+Land Rover,Range Rover Evoque,Rs.67.90 Lakh,67.9,50-100 Lakhs
+Land Rover,Range Rover Sport,Rs.1.69 - 2.80 Cr,224.5,200-500 Lakhs
+Land Rover,Discovery,Rs.97 Lakh - 1.43 Cr,4921.5,1000+ Lakhs
+Land Rover,Discovery Sport,Rs.67.90 Lakh,67.9,50-100 Lakhs
+Lexus,Es,Rs.63.10 - 69.70 Lakh,66.4,50-100 Lakhs
+Lexus,Lc 500H,Rs.2.39 - 2.50 Cr,244.50000000000003,200-500 Lakhs
+Lexus,Lm,Rs.2 - 2.50 Cr,225.0,200-500 Lakhs
+Lexus,Ls,Rs.1.96 - 2.27 Cr,211.50000000000003,200-500 Lakhs
+Lexus,Nx,Rs.67.35 - 74.24 Lakh,70.79499999999999,50-100 Lakhs
+Lexus,Rx,Rs.95.80 Lakh - 1.20 Cr,4850.0,1000+ Lakhs
+Lexus,Lx,Rs.2.84 Cr,284.0,200-500 Lakhs
+Lotus,Eletre,Rs.2.55 - 2.99 Cr,277.0,200-500 Lakhs
+Mahindra,Thar,Rs.11.35 - 17.60 Lakh,14.475000000000001,0-50 Lakhs
+Mahindra,Scorpio,Rs.13.62 - 17.42 Lakh,15.52,0-50 Lakhs
+Mahindra,Xuv700,Rs.13.99 - 26.99 Lakh,20.49,0-50 Lakhs
+Mahindra,Xuv 3Xo,Rs.7.49 - 15.49 Lakh,11.49,0-50 Lakhs
+Mahindra,Scorpio N,Rs.13.85 - 24.54 Lakh,19.195,0-50 Lakhs
+Mahindra,Bolero,Rs.9.79 - 10.91 Lakh,10.35,0-50 Lakhs
+Mahindra,Xuv300,Rs.7.99 - 14.76 Lakh,11.375,0-50 Lakhs
+Mahindra,Bolero Neo,Rs.9.95 - 12.15 Lakh,11.05,0-50 Lakhs
+Mahindra,Marazzo,Rs.14.59 - 17 Lakh,15.795,0-50 Lakhs
+Mahindra,Xuv400 Ev,Rs.15.49 - 19.39 Lakh,17.44,0-50 Lakhs
+Mahindra,Bolero Camper,Rs.10.26 - 10.61 Lakh,10.434999999999999,0-50 Lakhs
+Mahindra,Bolero Pikup Extralong,Rs.8.85 - 9.12 Lakh,8.985,0-50 Lakhs
+Mahindra,Bolero Maxitruck Plus,Rs.7.49 - 7.89 Lakh,7.6899999999999995,0-50 Lakhs
+Mahindra,Bolero Neo Plus,Rs.11.39 - 12.49 Lakh,11.940000000000001,0-50 Lakhs
+Mahindra,Bolero Pikup Extrastrong,Rs.8.71 - 9.39 Lakh,9.05,0-50 Lakhs
+Mahindra-Renault,Renault Logan,Rs.6.96 Lakh,6.96,0-50 Lakhs
+Mahindra-Renault,Renault Logan Edge,Rs.7.20 Lakh,7.2,0-50 Lakhs
+Maserati,Levante,Rs.1.49 - 1.64 Cr,156.5,100-200 Lakhs
+Maserati,Ghibli,Rs.1.15 - 1.93 Cr,154.0,100-200 Lakhs
+Maserati,Granturismo,Rs.2.25 - 2.51 Cr,238.0,200-500 Lakhs
+Maserati,Quattroporte,Rs.1.71 - 2.12 Cr,191.5,100-200 Lakhs
+Maserati,Grancabrio,Rs.2.46 - 2.69 Cr,257.5,200-500 Lakhs
+Maybach,57 S,Rs.4.85 Cr,484.99999999999994,200-500 Lakhs
+Maybach,62 S,Rs.5.10 Cr,509.99999999999994,500-1000 Lakhs
+Mazda,Miata,Rs.15.44 Lakh,15.44,0-50 Lakhs
+Mazda,Rx 8,Rs.15.44 Lakh,15.44,0-50 Lakhs
+Mclaren,Gt,Rs.4.50 Cr,450.0,200-500 Lakhs
+Mclaren,750S,Rs.5.91 Cr,591.0,500-1000 Lakhs
+Mercedes-Benz,Gla,Rs.50.50 - 58.15 Lakh,54.325,50-100 Lakhs
+Mercedes-Benz,Gls,Rs.1.32 - 2.96 Cr,214.0,200-500 Lakhs
+Mercedes-Benz,C-Class,Rs.61.85 - 69 Lakh,65.425,50-100 Lakhs
+Mercedes-Benz,E-Class,Rs.72.80 - 89.15 Lakh,80.975,50-100 Lakhs
+Mercedes-Benz,Glc,Rs.75.90 - 76.90 Lakh,76.4,50-100 Lakhs
+Mercedes-Benz,S-Class,Rs.1.77 - 1.86 Cr,181.5,100-200 Lakhs
+Mercedes-Benz,Maybach Gls,Rs.3.35 Cr,335.0,200-500 Lakhs
+Mercedes-Benz,Eqs,Rs.1.62 Cr,162.0,100-200 Lakhs
+Mercedes-Benz,Gle,Rs.96.65 Lakh - 1.10 Cr,4887.5,1000+ Lakhs
+Mercedes-Benz,Amg Sl,Rs.2.44 Cr,244.0,200-500 Lakhs
+Mercedes-Benz,Amg Gle 53,Rs.1.71 Cr,171.0,100-200 Lakhs
+Mercedes-Benz,Eqe Suv,Rs.1.39 Cr,139.0,100-200 Lakhs
+Mercedes-Benz,Amg C43,Rs.98.25 Lakh,98.25,50-100 Lakhs
+Mercedes-Benz,Amg A 45 S,Rs.93.65 Lakh,93.65,50-100 Lakhs
+Mercedes-Benz,Maybach S-Class,Rs.2.72 - 3.44 Cr,308.0,200-500 Lakhs
+Mercedes-Benz,A-Class Limousine,Rs.46.05 - 48.55 Lakh,47.3,0-50 Lakhs
+Mercedes-Benz,Glb,Rs.64.80 - 71.80 Lakh,68.3,50-100 Lakhs
+Mercedes-Benz,G-Class,Rs.2.55 - 4 Cr,327.5,200-500 Lakhs
+Mercedes-Benz,Eqb,Rs.77.75 Lakh,77.75,50-100 Lakhs
+Mercedes-Benz,Amg E 53 Cabriolet,Rs.1.30 Cr,130.0,100-200 Lakhs
+Mercedes-Benz,Amg Eqs,Rs.2.45 Cr,245.00000000000003,200-500 Lakhs
+Mercedes-Benz,Amg Gla 35,Rs.58.50 Lakh,58.5,50-100 Lakhs
+Mercedes-Benz,Amg Gt 4 Door Coupe,Rs.3.30 Cr,330.0,200-500 Lakhs
+Mercedes-Benz,Amg S 63,Rs.3.30 - 3.80 Cr,355.0,200-500 Lakhs
+Mg,Hector,Rs.13.99 - 22.24 Lakh,18.115,0-50 Lakhs
+Mg,Astor,Rs.9.98 - 18.08 Lakh,14.03,0-50 Lakhs
+Mg,Gloster,Rs.38.80 - 43.87 Lakh,41.334999999999994,0-50 Lakhs
+Mg,Comet Ev,Rs.6.99 - 9.53 Lakh,8.26,0-50 Lakhs
+Mg,Hector Plus,Rs.17.30 - 23.08 Lakh,20.189999999999998,0-50 Lakhs
+Mg,Zs Ev,Rs.18.98 - 25.44 Lakh,22.21,0-50 Lakhs
+Mini,Cooper 3 Door,Rs.42.70 Lakh,42.7,0-50 Lakhs
+Mini,Cooper Countryman,Rs.48.10 - 49 Lakh,48.55,0-50 Lakhs
+Mini,Cooper Se,Rs.53.50 Lakh,53.5,50-100 Lakhs
+Mitsubishi,Cedia,Rs.9.80 Lakh,9.8,0-50 Lakhs
+Mitsubishi,Challenger,Rs.20.25 Lakh,20.25,0-50 Lakhs
+Mitsubishi,Fto,Rs.8.24 Lakh,8.24,0-50 Lakhs
+Mitsubishi,Lancer,Rs.8.13 Lakh,8.13,0-50 Lakhs
+Mitsubishi,Lancer Evolution X,Rs.49.95 Lakh,49.95,0-50 Lakhs
+Mitsubishi,Montero 2007-2012,Rs.41.34 Lakh,41.34,0-50 Lakhs
+Mitsubishi,Montero 2009-2014,Rs.41.34 Lakh,41.34,0-50 Lakhs
+Mitsubishi,Montero,Rs.67.88 Lakh,67.88,50-100 Lakhs
+Mitsubishi,Outlander,Rs.32 Lakh,32.0,0-50 Lakhs
+Mitsubishi,Outlander 2007-2013,Rs.20.55 Lakh,20.55,0-50 Lakhs
+Mitsubishi,Pajero 2002-2012,Rs.22 Lakh,22.0,0-50 Lakhs
+Mitsubishi,Pajero Sport,Rs.30 Lakh,30.0,0-50 Lakhs
+Morris,Hector,Rs.13.99 - 22.24 Lakh,18.115,0-50 Lakhs
+Morris,Astor,Rs.9.98 - 18.08 Lakh,14.03,0-50 Lakhs
+Morris,Gloster,Rs.38.80 - 43.87 Lakh,41.334999999999994,0-50 Lakhs
+Morris,Comet Ev,Rs.6.99 - 9.53 Lakh,8.26,0-50 Lakhs
+Morris,Hector Plus,Rs.17.30 - 23.08 Lakh,20.189999999999998,0-50 Lakhs
+Morris,Zs Ev,Rs.18.98 - 25.44 Lakh,22.21,0-50 Lakhs
+Nissan,Magnite,Rs.6 - 11.27 Lakh,8.635,0-50 Lakhs
+Opel,Astra,Rs.80 Lakh,80.0,50-100 Lakhs
+Opel,Vectra,Rs.16.75 Lakh,16.75,0-50 Lakhs
+Opel,Corsa,Rs.6.22 Lakh,6.22,0-50 Lakhs
+Peugeot,309,Rs.8 Lakh,8.0,0-50 Lakhs
+Porsche,911,Rs.1.99 - 3.51 Cr,275.0,200-500 Lakhs
+Porsche,Taycan,Rs.1.61 - 2.44 Cr,202.5,200-500 Lakhs
+Porsche,Cayenne,Rs.1.36 - 2 Cr,168.00000000000003,100-200 Lakhs
+Porsche,Macan,Rs.88.06 Lakh - 1.53 Cr,4479.5,1000+ Lakhs
+Porsche,Panamera,Rs.1.68 Cr,168.0,100-200 Lakhs
+Porsche,718,Rs.1.48 - 2.74 Cr,211.00000000000003,200-500 Lakhs
+Porsche,Macan Ev,Rs.1.65 Cr,165.0,100-200 Lakhs
+Porsche,Cayenne Coupe,Rs.1.42 - 2.01 Cr,171.5,100-200 Lakhs
+Premier,118 Ne,Rs.5.99 Lakh,5.99,0-50 Lakhs
+Premier,138 D,Rs.6.50 Lakh,6.5,0-50 Lakhs
+Premier,Padmini,Rs.1.95 Lakh,1.95,0-50 Lakhs
+Premier,Rio 2009 2011,Rs.6.59 Lakh,6.59,0-50 Lakhs
+Premier,Rio,Rs.7.24 Lakh,7.24,0-50 Lakhs
+Renault,Kwid,Rs.4.70 - 6.45 Lakh,5.575,0-50 Lakhs
+Renault,Triber,Rs.6 - 8.97 Lakh,7.485,0-50 Lakhs
+Renault,Kiger,Rs.6 - 11.23 Lakh,8.615,0-50 Lakhs
+Rolls-Royce,Phantom,Rs.8.99 - 10.48 Cr,973.5,500-1000 Lakhs
+Rolls-Royce,Ghost,Rs.6.95 - 7.95 Cr,745.0,500-1000 Lakhs
+Rolls-Royce,Spectre,Rs.7.50 Cr,750.0,500-1000 Lakhs
+Rolls-Royce,Cullinan,Rs.6.95 Cr,695.0,500-1000 Lakhs
+Sipani,Montego,Rs.13 Lakh,13.0,0-50 Lakhs
+Skoda,Kushaq,Rs.10.89 - 18.79 Lakh,14.84,0-50 Lakhs
+Skoda,Slavia,Rs.10.69 - 18.69 Lakh,14.690000000000001,0-50 Lakhs
+Skoda,Superb,Rs.54 Lakh,54.0,50-100 Lakhs
+Skoda,Kodiaq,Rs.39.99 Lakh,39.99,0-50 Lakhs
+Studebaker,Champion,Rs.36 Lakh,36.0,0-50 Lakhs
+Subaru,Impreza,Rs.32.65 Lakh,32.65,0-50 Lakhs
+Tata,Punch,Rs.6.13 - 10.20 Lakh,8.165,0-50 Lakhs
+Tata,Nexon,Rs.8 - 15.80 Lakh,11.9,0-50 Lakhs
+Tata,Harrier,Rs.15.49 - 26.44 Lakh,20.965,0-50 Lakhs
+Tata,Altroz,Rs.6.65 - 11.35 Lakh,9.0,0-50 Lakhs
+Tata,Safari,Rs.16.19 - 27.34 Lakh,21.765,0-50 Lakhs
+Tata,Tiago,Rs.5.65 - 8.90 Lakh,7.275,0-50 Lakhs
+Tata,Altroz Racer,Rs.9.49 - 10.99 Lakh,10.24,0-50 Lakhs
+Tata,Punch Ev,Rs.10.99 - 15.49 Lakh,13.24,0-50 Lakhs
+Tata,Nexon Ev,Rs.14.49 - 19.49 Lakh,16.99,0-50 Lakhs
+Tata,Tiago Ev,Rs.7.99 - 11.89 Lakh,9.940000000000001,0-50 Lakhs
+Tata,Tigor,Rs.6.30 - 9.55 Lakh,7.925000000000001,0-50 Lakhs
+Tata,Tigor Ev,Rs.12.49 - 13.75 Lakh,13.120000000000001,0-50 Lakhs
+Tata,Tiago Nrg,Rs.6.70 - 8.80 Lakh,7.75,0-50 Lakhs
+Tata,Yodha Pickup,Rs.6.95 - 7.50 Lakh,7.225,0-50 Lakhs
+Toyota,Fortuner,Rs.33.43 - 51.44 Lakh,42.435,0-50 Lakhs
+Toyota,Innova Crysta,Rs.19.99 - 26.55 Lakh,23.27,0-50 Lakhs
+Toyota,Land Cruiser 300,Rs.2.10 Cr,210.0,200-500 Lakhs
+Toyota,Taisor,Rs.7.74 - 13.04 Lakh,10.39,0-50 Lakhs
+Toyota,Urban Cruiser Hyryder,Rs.11.14 - 20.19 Lakh,15.665000000000001,0-50 Lakhs
+Toyota,Hilux,Rs.30.40 - 37.90 Lakh,34.15,0-50 Lakhs
+Toyota,Camry,Rs.46.17 Lakh,46.17,0-50 Lakhs
+Toyota,Vellfire,Rs.1.20 - 1.30 Cr,125.0,100-200 Lakhs
+Toyota,Rumion,Rs.10.44 - 13.73 Lakh,12.085,0-50 Lakhs
+Toyota,Fortuner Legender,Rs.43.66 - 47.64 Lakh,45.65,0-50 Lakhs
+Toyota,Glanza,Rs.6.86 - 10 Lakh,8.43,0-50 Lakhs
+Toyota,Innova Hycross,Rs.19.77 - 30.98 Lakh,25.375,0-50 Lakhs
+Volkswagen,Virtus,Rs.11.56 - 19.41 Lakh,15.485,0-50 Lakhs
+Volkswagen,Taigun,Rs.11.70 - 20 Lakh,15.85,0-50 Lakhs
+Volkswagen,Tiguan,Rs.35.17 Lakh,35.17,0-50 Lakhs
+Volvo,Xc90,Rs.1.01 Cr,101.0,100-200 Lakhs
+Volvo,Xc60,Rs.68.90 Lakh,68.9,50-100 Lakhs
+Volvo,S90,Rs.68.25 Lakh,68.25,50-100 Lakhs
+Volvo,C40 Recharge,Rs.62.95 Lakh,62.95,50-100 Lakhs
+Volvo,Xc40 Recharge,Rs.54.95 - 57.90 Lakh,56.425,50-100 Lakhs
